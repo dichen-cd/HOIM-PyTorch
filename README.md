@@ -1,6 +1,6 @@
 # Hierarchical Online Instance Matching for Person Search
 
-This repository hosts our code for our paper *Hierarchical Online Instance Matching for Person Seach* (link to be updated). 
+This repository hosts our code for our paper [Hierarchical Online Instance Matching for Person Seach](https://aaai.org/Papers/AAAI/2020GB/AAAI-ChenD.1557.pdf). 
 
 
 
